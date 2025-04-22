@@ -1,7 +1,4 @@
 # 🚖 Computer Vision App 
-```
-⬆️ (Replace above with your app's name)
-```
 
 This app is designed for detecting cars in a image
 
