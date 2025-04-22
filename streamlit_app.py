@@ -5,6 +5,11 @@ st.title('🚗 Multi-Car Detection with YOLO')
 # st.write('Hello world!')
 st.info('👨🏻‍💻 Welcome to the app')
 
+# expander
+with st.expander('Project Introduction'):
+    st.write('Say something here!')
+    st.write('Say more')
+
 # sidebar
 with st.sidebar:
     st.header("Settings")
