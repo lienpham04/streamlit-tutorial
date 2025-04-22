@@ -12,7 +12,7 @@ with st.expander('Project Introduction'):
 # sidebar
 with st.sidebar:
     st.header("Settings")
-    input_type = st.radio("Select Input Type:", ["Upload Image", "Upload Video", "Live Stream"])
+    input_type = st.radio("Select Input Type:", ["Upload Image", "Upload Video"])
     confidence = st.slider("Detection Confidence Threshold", 0.1, 1.0, 0.5)
 
 # input
