@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# 🚖 Computer Vision App 
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+This app is designed for detecting cars in a image
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit-tutorial.streamlit.app/)
 
 ## GitHub Codespaces
 
