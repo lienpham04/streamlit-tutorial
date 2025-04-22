@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('🚗 Multi-Car Detection with wwYOLO')
+st.title('🚗 Multi-Car Detection with YOLO')
 
 # st.write('Hello world!')
 st.info('👨🏻‍💻 Welcome to the app')
