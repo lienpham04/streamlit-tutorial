@@ -3,3 +3,10 @@ numpy
 pandas
 scikit-learn
 torch
+torchvision
+opencv-python
+Pillow
+matplotlib
+pyyaml
+tqdm
+scipy
