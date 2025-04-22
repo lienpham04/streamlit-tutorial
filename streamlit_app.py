@@ -1,5 +1,6 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 MLOps app')
 
-st.write('Hello world!')
+# st.write('Hello world!')
+st.info('👨🏻‍💻 Welcome to the app')
