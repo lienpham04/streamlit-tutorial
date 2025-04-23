@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 from PIL import Image
-from serving_pipeline.utils import get_image_array, get_boxes_for_image, draw_boxes_on_image
+from utils import get_image_array, get_boxes_for_image, draw_boxes_on_image
 
 st.set_page_config(page_title="Multi-label Object Detection", layout="centered")
 st.title("🧠 Visualize Labels from CSV")
