@@ -3,7 +3,7 @@ import os
 from PIL import Image
 from serving_pipeline.utils import get_image_array, get_boxes_for_image, draw_boxes_on_image
 
-st.title('🚗 Multi-label Object Detection with YOLO')
+st.title('🚗 Multi-label Object Detection with YOLOoooo')
 
 # st.write('Hello world!')
 st.info('👨🏻‍💻 Welcome to the app')
